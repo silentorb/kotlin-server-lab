@@ -1,0 +1,11 @@
+{
+  "database": {
+    "host": "localhost",
+    "database": "",
+    "username": "",
+    "password": "",
+    "dialect": "postgres",
+    "devMode": false,
+    "logging": true
+  }
+}
